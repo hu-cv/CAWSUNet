@@ -1,6 +1,6 @@
 
 # MSFSRNet
-Hi! You are welcome to visit here! This repository will be used to release the code of a novel image restoration model called the Residual Network with Multi-skip Feature Sharing (abbreviated as MSFSRNet), which has been proposed in our paper entitled "CAWSUNet: Channel Attention Weight Sharing U-Net for Single Image Denoising" submitted to the International journal of XXX. **NOTE that once our manuscript is accepted by the journal, we will release the code immediately**. 
+Hi! You are welcome to visit here! This repository will be used to release the code of a novel image denoising model called the Channel Attention Weight Sharing U-Net for Single Image Denoising (abbreviated as CAWSUNet), which has been proposed in our paper entitled "CAWSUNet: Channel Attention Weight Sharing U-Net for Single Image Denoising" submitted to the International journal of XXX. **NOTE that once our manuscript is accepted by the journal, we will release the code immediately**. 
 ## Abstract
 
  <p> Image denoising plays a crucial role in image processing, with the primary goal of removing noise while preserving details. 
